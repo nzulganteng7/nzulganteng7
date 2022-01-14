@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wafarifki/wafarifki/main/ngtuh.png" style="width:100%;">
+<img src="https://github.com/nzulganteng7/nzulganteng7/blob/main/ngtuh.png" style="width:100%;">
 
 ### Hi Maniezz 👋 , I'm Nzul!
 Only Gabut people from Indonesia!
